@@ -1,0 +1,12 @@
+All difficulties after reduce the unhappiness, production cost, maintenance, and growth cost for the ai. Increases ai unit supply. Means the early game is easier,
+but should mean the ai keeps pace with the player.
+Modifiers are as follow:
+settler 0%
+cheftain 5%
+warlord 10%
+noble 15%
+prince 20%
+king 25%
+emperor 30%
+immortal 35%
+deity 40%
