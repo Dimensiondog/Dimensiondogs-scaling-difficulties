@@ -29,7 +29,7 @@
 		"clearBarbarianCampReward": 33
 	},
 	{
-		"name": "Cheftain",
+		"name": "Chieftain",
 		"baseHappiness": 10,
 		"extraHappinessPerLuxury": 0,
 		"researchCostModifier": 1,
